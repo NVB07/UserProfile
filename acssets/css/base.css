@@ -46,7 +46,7 @@
 .btn.switch-mode{
     width: 35px;
     height: 35px;
-    color: #000;
+    color: var(--text-light-color);
     border: none;
     cursor: pointer;
     font-size: 18px;
