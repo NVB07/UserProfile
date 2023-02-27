@@ -7,13 +7,13 @@
      - Attribute `href="" ` of tag `<a>` 
      - icon is `<i> </i>` tag (available on <a href ="https://fontawesome.com/icons">Fotn Awesome</a>)
      - `class = "title-ico txt"`, the name of the software or whatever you want.
- (Some popular apps are included).
+ (Some popular apps are included).<br/>
      If you want to add any profile, just copy the `<a ...> ... </a>` tag and paste it, then you can edit it as instructed above.
 6. About highlights, you can edit " my project" at line 147(.css) with `content : "my project"` in file `base.css `(/acssets/css/base.css)
 7. Similar to editing contact information, you can edit the highlight content with the `<a...> ... </a>` tags available in `class="outstanding"`
      - The link is still `href ="" ` in the `<a...>`.
      - Different from the icon in the contact information section, here use the image to display. You can replace it by pasting the image link into `src = " " ` located in the `<img src= "... ">`.
-     - Change the title in the `<div class="item-name txt" > ... </div>` tag to your liking.
+     - Change the title in the `<div class="item-name txt" > ... </div>` tag to your liking.<br/>
      If you want to add any profile, just copy the `<a ...> ... </a>` tag and paste it, then you can edit it as instructed above.
 
 Good Luck !!!
