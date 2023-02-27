@@ -60,6 +60,8 @@
     display: flex;
     flex-direction: row;
     margin: 15px 5px;
+    justify-content: center;
+    align-items: center;
 }
 
 .text{
@@ -81,10 +83,12 @@
 .avatar{
     display: flex;
     align-items: center;
-    justify-content: center;
+        margin-right: 2px;
+        justify-content: center;
 }
 .avatar-img{
     width: 120px;
+    height: 120px;
     border-radius: 50%;
     object-fit: cover;
 }
@@ -92,6 +96,7 @@
 .contact{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     margin-top: 10px;
 }
 
@@ -184,7 +189,7 @@
 /*dark mode */
 .dark-mode{
     background-color:var(--main-bg-dark-color);
-    animation: lightTo 0.2s ease-in;
+    animation: lightTo 0.2s ease;
 }
 
 @keyframes lightTo{
@@ -226,6 +231,7 @@
     color: #999;
 }
 
+.dark-mode .avatar-img,
 .dark-mode .main,
 .dark-mode .main .btn.switch-mode,
 .dark-mode .contact .ico .color-mode,
