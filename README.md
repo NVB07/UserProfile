@@ -14,5 +14,6 @@
      - The link is still `href ="" ` in the `<a...>`.
      - Different from the icon in the contact information section, here use the image to display. You can replace it by pasting the image link into `src = " " ` located in the `<img src= "... ">`.
      - Change the title in the `<div class="item-name txt" > ... </div>` tag to your liking.
+     If you want to add any profile, just copy the `<a ...> ... </a>` tag and paste it, then you can edit it as instructed above.
 
 Good Luck !!!
