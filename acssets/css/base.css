@@ -25,7 +25,7 @@
     margin: 30px auto;
     width: 100%;
     max-width: 450px;
-    min-height: 600px;
+    /* min-height: 600px; */
     box-shadow: var(--box-shadow-light-mode);
     border-radius: 10px;
 }
