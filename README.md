@@ -16,4 +16,4 @@
      - Change the title in the `<div class="item-name txt" > ... </div>` tag to your liking.<br/>
      If you want to add any profile, just copy the `<a ...> ... </a>` tag and paste it, then you can edit it as instructed above.
 
-Good Luck !!!
+
